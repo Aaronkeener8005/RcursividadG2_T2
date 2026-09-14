@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="RcursividadG2_T2/RcursividadG2_T2.csproj" />
+  <Project Path="RcursividadG2_T2/RcursividadG2_T2.csproj" Id="84731122-042a-46c0-984a-4f841f6fe064" />
+  <Project Path="Recursividad.IU.Consola/Recursividad.IU.Consola.csproj" Id="f9bdcebf-968f-401b-905b-73fe3911fec0" />
+  <Project Path="Recursividad.Logica/Recursividad.Logica.csproj" Id="7a3f22e4-125c-4ae7-b2e3-847ea0ce81ca" />
 </Solution>

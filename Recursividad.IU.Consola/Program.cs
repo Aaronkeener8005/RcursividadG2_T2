@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RcursividadG2_T2
+namespace Recursividad.IU.Consola
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
             Recursividades oRecursividades = new Recursividades();
-            Console.ReadKey();
+
+            Console.ReadLine();
         }
     }
 }
